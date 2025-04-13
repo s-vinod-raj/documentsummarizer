@@ -42,13 +42,7 @@ Thumbs.db
 .streamlit/config.toml
 .streamlit/secrets.toml
 
-# Temporary files from file handling
-*.pdf
-*.txt
-*.docx
-*.doc
-*.zip
-*.tar.gz
+
 
 # Temporary files created by NamedTemporaryFile
 tmp*
