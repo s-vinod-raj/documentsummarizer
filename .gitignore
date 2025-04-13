@@ -3,12 +3,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# Temporary files
-*.log
-*.tmp
-*.temp
-*.swp
-*.bak
+
 
 # Conda environment folders
 .conda/
