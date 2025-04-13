@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+*.swp
+*.bak
+
+# Conda environment folders
+.conda/
+*.conda
+env/
+ENV/
+envs/
+
+# Environment
+.env
+.venv/
+venv/
+ENV/
+env/
+.Python
+
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VSCode settings
+.vscode/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# Temporary files from file handling
+*.pdf
+*.txt
+*.docx
+*.doc
+*.zip
+*.tar.gz
+
+# Temporary files created by NamedTemporaryFile
+tmp*
+
+# PyMuPDF & pdfplumber internal files (if any)
+*.xhtml
+
+# Ignore model cache (optional if using large models)
+~/.cache/
+transformers_cache/
